@@ -133,7 +133,7 @@ env-mas: &env-mas
   MAS_BUILD: 'true'
 
 env-mas-apple-silicon: &env-mas-apple-silicon
-  GN_EXTRA_ARGS: 'target_cpu = "arm64" is_mas_build = true use_prebuilt_v8_context_snapshot = true'
+  GN_EXTRA_ARGS: 'target_cpu = "arm64" is_mas_build = true use_prebuilt_v8_context_snapshot = true is_asan = true enable_full_stack_frames_for_profiling = true'
   MAS_BUILD: 'true'
   TARGET_ARCH: arm64
   USE_PREBUILT_V8_CONTEXT_SNAPSHOT: 1
@@ -1978,7 +1978,6 @@ jobs:
       <<: *env-mas-apple-silicon
       GCLIENT_EXTRA_ARGS: '--custom-var=checkout_mac=True --custom-var=host_os=mac'
       GENERATE_CROSS_ARCH_SNAPSHOT: true
-      GN_EXTRA_ARGS: 'is_asan = true'
     steps:
       - electron-build:
           persist: true

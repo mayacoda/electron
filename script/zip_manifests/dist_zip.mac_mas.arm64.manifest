@@ -125,6 +125,7 @@ Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resourc
 Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/uk.lproj/locale.pak
 Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ur.lproj/
 Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ur.lproj/locale.pak
+Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/v8_context_snapshot.arm64.bin
 Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/vi.lproj/
 Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/vi.lproj/locale.pak
 Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/zh_CN.lproj/
@@ -199,6 +200,14 @@ Electron.app/Contents/Frameworks/Electron Helper (Renderer).app/Contents/MacOS/
 Electron.app/Contents/Frameworks/Electron Helper (Renderer).app/Contents/MacOS/Electron Helper (Renderer)
 Electron.app/Contents/Frameworks/Electron Helper (Renderer).app/Contents/PkgInfo
 Electron.app/Contents/Info.plist
+Electron.app/Contents/Library/
+Electron.app/Contents/Library/LoginItems/
+Electron.app/Contents/Library/LoginItems/Electron Login Helper.app/
+Electron.app/Contents/Library/LoginItems/Electron Login Helper.app/Contents/
+Electron.app/Contents/Library/LoginItems/Electron Login Helper.app/Contents/Info.plist
+Electron.app/Contents/Library/LoginItems/Electron Login Helper.app/Contents/MacOS/
+Electron.app/Contents/Library/LoginItems/Electron Login Helper.app/Contents/MacOS/Electron Login Helper
+Electron.app/Contents/Library/LoginItems/Electron Login Helper.app/Contents/PkgInfo
 Electron.app/Contents/MacOS/
 Electron.app/Contents/MacOS/Electron
 Electron.app/Contents/PkgInfo
