@@ -133,47 +133,11 @@ Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resourc
 Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/zh_TW.lproj/
 Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/zh_TW.lproj/locale.pak
 Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/Current
-Electron.app/Contents/Frameworks/Electron Framework.framework/Helpers
-Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Helpers/
-Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Helpers/chrome_crashpad_handler
-Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Helpers/libclang_rt.asan_osx_dynamic.dylib
-Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/v8_context_snapshot.x86_64.bin
 Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/libclang_rt.asan_osx_dynamic.dylib
 Electron.app/Contents/Frameworks/Electron Helper (GPU).app/Contents/MacOS/libclang_rt.asan_osx_dynamic.dylib
 Electron.app/Contents/Frameworks/Electron Helper (Plugin).app/Contents/MacOS/libclang_rt.asan_osx_dynamic.dylib
 Electron.app/Contents/Frameworks/Electron Helper (Renderer).app/Contents/MacOS/libclang_rt.asan_osx_dynamic.dylib
 Electron.app/Contents/Frameworks/Electron Helper.app/Contents/MacOS/libclang_rt.asan_osx_dynamic.dylib
-Electron.app/Contents/Frameworks/Mantle.framework/
-Electron.app/Contents/Frameworks/Mantle.framework/Mantle
-Electron.app/Contents/Frameworks/Mantle.framework/Resources
-Electron.app/Contents/Frameworks/Mantle.framework/Versions/
-Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/
-Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/Mantle
-Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/Resources/
-Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/Resources/Info.plist
-Electron.app/Contents/Frameworks/Mantle.framework/Versions/A/libclang_rt.asan_osx_dynamic.dylib
-Electron.app/Contents/Frameworks/Mantle.framework/Versions/Current
-Electron.app/Contents/Frameworks/ReactiveObjC.framework/
-Electron.app/Contents/Frameworks/ReactiveObjC.framework/ReactiveObjC
-Electron.app/Contents/Frameworks/ReactiveObjC.framework/Resources
-Electron.app/Contents/Frameworks/ReactiveObjC.framework/Versions/
-Electron.app/Contents/Frameworks/ReactiveObjC.framework/Versions/A/
-Electron.app/Contents/Frameworks/ReactiveObjC.framework/Versions/A/ReactiveObjC
-Electron.app/Contents/Frameworks/ReactiveObjC.framework/Versions/A/Resources/
-Electron.app/Contents/Frameworks/ReactiveObjC.framework/Versions/A/Resources/Info.plist
-Electron.app/Contents/Frameworks/ReactiveObjC.framework/Versions/A/libclang_rt.asan_osx_dynamic.dylib
-Electron.app/Contents/Frameworks/ReactiveObjC.framework/Versions/Current
-Electron.app/Contents/Frameworks/Squirrel.framework/
-Electron.app/Contents/Frameworks/Squirrel.framework/Resources
-Electron.app/Contents/Frameworks/Squirrel.framework/Squirrel
-Electron.app/Contents/Frameworks/Squirrel.framework/Versions/
-Electron.app/Contents/Frameworks/Squirrel.framework/Versions/A/
-Electron.app/Contents/Frameworks/Squirrel.framework/Versions/A/Resources/
-Electron.app/Contents/Frameworks/Squirrel.framework/Versions/A/Resources/Info.plist
-Electron.app/Contents/Frameworks/Squirrel.framework/Versions/A/Resources/ShipIt
-Electron.app/Contents/Frameworks/Squirrel.framework/Versions/A/Squirrel
-Electron.app/Contents/Frameworks/Squirrel.framework/Versions/A/libclang_rt.asan_osx_dynamic.dylib
-Electron.app/Contents/Frameworks/Squirrel.framework/Versions/Current
 Electron.app/Contents/MacOS/libclang_rt.asan_osx_dynamic.dylib
 Electron.app/Contents/Frameworks/Electron Helper.app/
 Electron.app/Contents/Frameworks/Electron Helper.app/Contents/
