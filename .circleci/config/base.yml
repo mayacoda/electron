@@ -1905,7 +1905,6 @@ jobs:
       <<: *env-ninja-status
       <<: *env-macos-build
       GCLIENT_EXTRA_ARGS: '--custom-var=checkout_mac=True --custom-var=host_os=mac'
-      GN_EXTRA_ARGS: 'is_asan = true'
     steps:
       - electron-build:
           persist: true
@@ -1979,6 +1978,7 @@ jobs:
       <<: *env-mas-apple-silicon
       GCLIENT_EXTRA_ARGS: '--custom-var=checkout_mac=True --custom-var=host_os=mac'
       GENERATE_CROSS_ARCH_SNAPSHOT: true
+      GN_EXTRA_ARGS: 'is_asan = true'
     steps:
       - electron-build:
           persist: true
