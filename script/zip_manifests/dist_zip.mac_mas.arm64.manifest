@@ -171,6 +171,7 @@ Electron.app/Contents/Library/LoginItems/Electron Login Helper.app/Contents/
 Electron.app/Contents/Library/LoginItems/Electron Login Helper.app/Contents/Info.plist
 Electron.app/Contents/Library/LoginItems/Electron Login Helper.app/Contents/MacOS/
 Electron.app/Contents/Library/LoginItems/Electron Login Helper.app/Contents/MacOS/Electron Login Helper
+Electron.app/Contents/Library/LoginItems/Electron Login Helper.app/Contents/MacOS/libclang_rt.asan_osx_dynamic.dylib
 Electron.app/Contents/Library/LoginItems/Electron Login Helper.app/Contents/PkgInfo
 Electron.app/Contents/MacOS/
 Electron.app/Contents/MacOS/Electron
